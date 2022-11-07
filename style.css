@@ -1,0 +1,163 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Signika Negative', sans-serif;
+  font-family: 'Comfortaa', cursive;
+  margin: 0;
+}
+
+
+.container{
+  display:flex;
+  flex-direction:row;
+}
+
+.ladoIzq{
+  display:flex;
+  flex-direction:column;
+  color: white;
+  background-color: #005bbd;
+}
+
+img{
+  width: 25em;
+  height: 25em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.tituloIzq{
+  display:flex;
+  justify-content: center;
+  font-size: 1.5em;
+}
+
+.datosContacto{
+  display: flex;
+  flex-direction: column;
+}
+
+.filaDatos{
+  display:flex;
+  flex-direction:row;
+  align-items: center;
+}
+
+.filaIcono{
+  margin-right: 2em;
+  display: flex;
+  flex-direction:row;
+  justify-content: space-between;
+  color: #005bbd;
+  background: white;
+  border: white 1px solid;
+  border-top-right-radius: 0.5em;
+  border-bottom-right-radius: 0.5em;
+  padding-left: 2em;
+  padding-right: 0.5em;
+}
+
+a{
+  color: white;
+  text-decoration-color: white;
+}
+
+.iconDato{
+  font-size: 1.5em;
+}
+
+.datosBarra{
+  display:flex;
+  flex-direction: column;
+}
+
+.filaHabilidades, .filaSoftware{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0.2em 2.5em;
+}
+
+.datosHobbies{
+  display: flex;
+  justify-content: center;
+}
+
+.icoHobbie{
+  padding: 0.5em;
+  font-size: 2em;
+  background-color: white;
+  margin: 0.5em;
+  color: black;
+}
+
+.ladoDer{
+  display: flex;
+  flex-direction: column;
+  color: #005bbd;
+  margin-left: 1em;
+  margin-right: 1em;
+  background: rgb(244,244,247);
+background: linear-gradient(90deg, rgba(244,244,247,0) 35%, rgba(106,104,255,1) 100%);
+}
+
+.nombre{
+  font-size: 4em;
+  margin: 0;
+  text-align: center;
+  margin-top: 0.5em;
+}
+
+.apellido{
+  font-size: 5em;
+  color: black;
+  margin: 0;
+  margin-bottom: 0.5em;
+  text-align: center;
+  font-weight: bold;
+}
+
+.puesto{
+  font-size: 2em;
+  margin: 0;
+  font-weight: bold;
+}
+
+.descripcion{
+  font-size: 1.5em;
+}
+
+.info{
+  line-height:1.5em;
+  margin-right: 2.5em;
+}
+
+.tituloBorde{
+  color: white;
+  background: blue;
+  width: 30%;
+  border-radius: 1em;
+  text-align: center;
+  padding: 0.5em;
+  font-size: 1.5em;
+}
+
+.educaciones{
+  display: flex;
+  flex-direction: column;
+}
+
+.eduItem{
+  display: flex;
+  flex-direction: row;
+}
+
+.año{
+  margin-right: 1em;
+}
+
+
+
+
+
+
