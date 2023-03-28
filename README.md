@@ -5,4 +5,4 @@ Primer TP Curso Fundamentos de desarrollo web, Ada School.
 
 ![This is an image](https://http2.mlstatic.com/D_NQ_NP_980632-MCO42057227426_062020-O.jpg)
 
-### Mi Resultado: [Aqui](https://crazyro15.github.io/hoja-de-vida/).
+### Mi Resultado: [Aqui](https://rominaMC15.github.io/hoja-de-vida/).
